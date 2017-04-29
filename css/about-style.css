@@ -1,0 +1,41 @@
+.jumbotron {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: #FFF;
+}
+
+.navbar-brand {
+    size: 10px;
+    padding-right: 0;
+    width: 200px;
+}
+
+li.active a {
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.navbar-default {
+    width: 100%;
+    background: #FFF;
+    border: NONE;
+}
+
+.top {
+    padding-top: 100px;
+    text-align: center
+}
+
+h1 {
+    font-size: 20px;
+    padding-top: 10px;
+    margin-top: 140px;
+    margin-bottom: 30px;
+    letter-spacing: 0.1em;
+    text-align: center;
+}
+
+.nayamiis {
+    text-align: center
+}
