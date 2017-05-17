@@ -16,6 +16,11 @@ li.active a {
     color: #FFF;
 }
 
+h2 {
+    padding-top: 150px;
+    text-align: center;
+}
+
 .navbar-default {
     width: 100%;
     background: #FFF;
