@@ -21,6 +21,11 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    padding-top: 10px;
+    text-align: center;
+}
+
 .navbar-default {
     width: 100%;
     background: #FFF;
