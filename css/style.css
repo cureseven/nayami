@@ -4,29 +4,30 @@
      padding: 0;
      background: #FFF;
  }
- 
+
  .navbar-brand {
      size: 10px;
      padding-right: 0;
      width: 200px;
  }
- 
+
  li.active a {
      background-color: #FFF;
      color: #FFF;
  }
- 
+
  .navbar-default {
      width: 100%;
      background: #FFF;
      border: NONE;
  }
- 
+
  .top {
      padding-top: 50px;
      text-align: center;
+     margin-top: 20px;
  }
- 
+
  p.top-icon {
      text-align: center;
      width: 80vw;
@@ -35,7 +36,16 @@
      font-size: 30px;
      letter-spacing: 0.15em;
  }
- 
+ p.top-img {
+     text-align: center;
+     width: 80vw;
+     margin: 0 auto;
+     /*margin-top: 100px;*/
+     font-size: 30px;
+     letter-spacing: 0.15em;
+ }
+
+
  p.top-icon img {
      position: relative;
      width: 100%;
@@ -44,20 +54,20 @@
      max-height: 100vh;
      margin: 0 auto;
  }
- 
+
  h1 {
      margin-top: 80px;
      margin-bottom: 10px;
      text-align: center;
      width: 80%;
  }
- 
+
  h1 img {
      padding-left: 30px;
      padding-right: 30px;
      text-align: center;
  }
- 
+
  .youtube {
      margin: 10px 0;
      position: relative;
@@ -67,7 +77,7 @@
      max-width: 40vw;
      margin: 0 auto;
  }
- 
+
  .youtube iframe {
      text-align: center;
      margin: 0 auto;
@@ -78,7 +88,7 @@
      height: 100%;
      position: absolute;
  }
- 
+
  iframe.twitter-tweet {
      width: 100% !important;
      border-radius: 0 !important;
